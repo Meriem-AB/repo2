@@ -19,3 +19,5 @@ def test_coucou():
   # Fonction test si la résultat renvoie 'hello'
     output='hello'
     assert output == 'hello'
+
+print("Hello")
